@@ -1,13 +1,13 @@
-com\example\anomaly\service\UserService.class
 com\example\anomaly\controller\AnomalyController.class
 com\example\anomaly\controller\ProductController.class
-com\example\anomaly\service\ProductService.class
 com\example\anomaly\AnomalyDetectionApplication.class
+com\example\service\ProductService.class
 com\example\anomaly\repository\ProductRepository.class
 com\example\anomaly\repository\UserRepository.class
+com\example\service\AnomalyService.class
 com\example\anomaly\repository\AnomalyRepository.class
 com\example\anomaly\model\User.class
 com\example\anomaly\model\Product.class
+com\example\service\UserService.class
 com\example\anomaly\model\Anomaly.class
 com\example\anomaly\controller\UserController.class
-com\example\anomaly\service\AnomalyService.class
