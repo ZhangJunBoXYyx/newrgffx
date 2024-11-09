@@ -1,7 +1,7 @@
 package com.example.anomaly.controller;
 
 import com.example.anomaly.model.Anomaly;
-import com.example.anomaly.service.AnomalyService;
+import com.example.service.AnomalyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
