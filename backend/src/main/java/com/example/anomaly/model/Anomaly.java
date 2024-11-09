@@ -1,8 +1,8 @@
 package com.example.anomaly.model;
 
-import java.time.LocalDateTime;
-
 import jakarta.persistence.*;
+
+import java.time.LocalDateTime;
 
 
 // 异常实体类
